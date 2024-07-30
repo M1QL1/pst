@@ -1,0 +1,1973 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NotFound</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="copyright" content="&copy; 2024 Ellsworth Adhesives" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="google-site-verification" content="x2WtI8kBvYkcyBaugJ5f0lbDUOfLyFYX0DLCyVCaE_s" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@thegluedoctor" />
+    <meta property="og:title" content="NotFound" />
+    <meta name="twitter:title" content="NotFound" />
+    <meta property="og:image" content="https://www.ellsworth.com/site/ellsworth/static/img/e-icon.png" />
+    <meta name="twitter:image" content="https://www.ellsworth.com/site/ellsworth/static/img/e-icon.png" />
+
+    <link href="https://www.ellsworth.com/notfound/" rel="canonical" />
+    
+    <link rel="stylesheet" href='/version-888e011215804be4a292ebb153b13f6c/Site/Ellsworth/Static/css/master.min.css' />
+    <link rel="stylesheet" href='/version-1b87bfd8c3a44f5a843a39c92327e47c/Site/Ellsworth/Static/stylesheets/main.css' />
+    <link rel="stylesheet" href='/version-e7e6d0678b7b4de8a437daec13bdd91f/Site/Ellsworth/Static/stylesheets/epimode.css' />
+    <script type="text/javascript" src='/version-e096368912ca4713870ae64b164870af/Site/Ellsworth/Static/js/master.min.js'></script>
+    <script type="text/javascript" src='/version-ed7bcf8f91834f818a118ac1310dac4e/Site/Ellsworth/App/dist/global.js' defer></script>
+
+        <style>
+            .ea-us-b { display: block; }
+            .ea-us-ib { display: inline-block; }
+            .ea-us-f { display: flex; }
+            .ea-ca-b, .ea-ca-ib, .ea-ca-f { display: none; }
+        </style>
+    
+     
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MNH6K7S');
+</script>
+<!-- End Google Tag Manager -->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript">window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'4262392'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}</script>
+<!-- END LivePerson Monitor. -->
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"ff3ac41c-269d-459d-ac2b-b4c6b684f1ec",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script></head>
+<body>
+    <script type="text/javascript">
+    window.bootstrap = {
+        modalLoginPath: "/login/dialog?returnUrl=/NotFound?404;https://elad01mstrfg1t0prod__3a59:80/globalassets/catalogs/dow-corning-736-300ml_431x431.jpg",
+        country: "USA",
+        searchPageUrl: '/search/',
+        cartPageUrl: '/cart/',
+        addToCartPageUrl: '/cart/add-to-cart/',
+        addToCartPageDialogUrl: '/cart/add-to-cart/dialog/',
+        wishlistPageUrl: '/my-account/lists/',
+        addToWishlistPageUrl: '/wishlist/add-to-list/',
+        addToWishlistDialogUrl: '/wishlist/add-to-list/dialog/',
+    };
+</script>
+
+    
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNH6K7S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+<header>
+    <div class="header-inner " data-header-height >
+        <div class="header-banner">
+            <noscript>
+                <p class="page-top-msg">
+                    For full functionality of our site, it is necessary to enable JavaScript. <a href="https://www.enable-javascript.com/" target="_blank" rel="noopener noreferrer">Click here for instructions on how to enable JavaScript in your web browser.</a>
+                </p>
+            </noscript>
+        </div>
+        
+
+
+
+<div class="header-nav desktop">
+    <nav class="nav-desktop">
+        <div class="nav-desktop-container">
+            <div class="nav-desktop-inner">
+                <div class="nav-utility">
+                    <div class="nav-desktop-logo">
+                        <a itemprop="url" href="/">
+                            <img itemprop="logo" src="https://www.ellsworth.com/globalassets/general/logos/ea-us-logo.png" alt="Ellsworth Adhesives" />
+                        </a>
+                    </div>
+                    <div class="nav-desktop-utility">
+                        
+
+
+<ul class="unstyled nav-utility-list">
+    <li class="nav-utility-list-item">
+        <a href="/resources/ask-the-glue-doctor/" class="ask-dr">
+            Ask The Glue Doctor&#174;
+        </a>
+    </li>
+    <li class="nav-utility-list-item"><a href="/resources/sdstdsreachrohs-library/">SDS/TDS Library</a></li>
+    <li class="nav-utility-list-item nav-quickorder">
+        <button class="un-button nav-quickorder-button" data-quick-order-trigger>Quick Order</button>
+        <div class="nav-quickorder-inner">
+
+            <div class="nav-quickorder-container dark-gray" style="max-width: 500px;" data-quick-order-content>
+                <div class="quick-order-inputs" data-quick-order-inputs>
+                    <div class="label-input-container quick-order-part-number" data-label-parent>
+                        <label class="paragraph-caption">Part #</label>
+                        <div data-quick-order-part-container class="part-number-error-container">
+                            <input type="text" data-quick-order-part />
+                            <div class=" search-autocomplete">
+                                <div class="autocomplete-container" data-quick-order-autocomplete-container>
+                                    <div class="search-autocomplete-inner">
+                                        <span class="search-autocomplete-indicator">
+                                            <em>Search Suggestions</em>
+                                        </span>
+                                        <ul></ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="part-number-message-container" data-quick-order-message-container>
+                                <svg class="svg-icon part-number-error" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-exclamation" />
+                                </svg>
+                                <svg class="svg-icon part-number-success" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-check" />
+                                </svg>
+                                <span data-quick-order-part-message class="error-text"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="label-input-container quick-order-quantity" data-label-parent>
+                        <label class="paragraph-caption">Quantity</label>
+                        <div class="quantity-container" data-quantity-container>
+                            <button type="button" class="btn-plain btn-white decrement" data-quantity-decrement>
+                                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-minus" />
+                                </svg>
+                            </button>
+                            <input type="number" min="1" max="99" value="1" data-quick-order-quantity />
+                            <button type="button" class="btn-plain btn-white increment" data-quantity-increment>
+                                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-plus" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="quick-order-buttons">
+                    <button class="un-button add-row" type="button" data-quick-order-add-row>Add a row</button>
+                    <button type="button" data-quick-order-submit class="btn-primary add-to-cart">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li class="nav-utility-list-item nav-utility-list-item-compare"><a href="/compare/">Compare Products<span id="MyCompareListCount" class="nav-utility-list-item-compare-count no-items">0</span></a></li>
+    <li class="nav-utility-list-item nav-utility-list-item-cart"><a href="/cart/">My Cart<span id="MyCartCount" class="nav-utility-list-item-cart-count no-items">0</span></a></li>
+</ul>
+
+
+                    </div>
+                </div>
+                <div class="nav-main">
+                    <ul class="nav-main-list desktop unstyled">
+                        
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Products
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner ">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Products</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/adhesives/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/adhesives-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Adhesives</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/conformal-coatings/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/conformal-coating-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Conformal Coatings</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/dispensing-equipment-supplies/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/dispensing-equipment-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Dispensing Equipment and Supplies</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/encapsulants/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/encapsulant-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Encapsulants</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/sealants/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/sealants-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Sealants</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/uv-curing-equipment/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/uv-curing-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">UV Curing Equipment</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/products/" class="btn">
+        <span>View All Products</span>
+    </a>
+
+    </div>
+</div>
+
+
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Manufacturers</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/3m/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/3m-wordmark.png)"></div>
+
+        <span class="nav-main-panel-link-text ">3M</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/dow/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/logos/dow-chemical-logo-transparent.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Dow</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/henkel-loctite/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/d5a687183ede401c9208e7cf8e0bd906/henkel_logo.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Henkel Loctite</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/dymax/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/logos/dymax_transparent.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Dymax</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/parker-lord/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/beaf6e4d6d854916b383616e5cb1a97a/parkerlord.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Parker LORD</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/humiseal/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/f8680b6f9b03460f9286e09a995c4ff2/humiseal_logo.png)"></div>
+
+        <span class="nav-main-panel-link-text ">HumiSeal</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/manufacturers/" class="btn">
+        <span>View all Manufacturers</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+                    <div class="nav-main-panel-section">
+
+                        <h4 class="h5-alt  title">Ask the Glue Doctor </h4>
+                        
+<div class="nav-main-panel-feature overlay-blue overlay-hover">
+    <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/gluedocpromo.jpg)"></div>
+    <div class="feature-cta-inner rich-text">
+            <h5 class="h3-styled title">Experts at Custom Solutions</h5>
+
+        <p>Ellsworth Adhesives Glue Doctors include our Engineering Sales Representatives.</p>
+        <div class="btn-wrapper">
+            
+
+    <a href="https://www.ellsworth.com/resources/ask-the-glue-doctor/" class="btn">
+        <span>Ask the Glue Doctor</span>
+    </a>
+
+        </div>
+    </div>
+</div>
+
+                    </div>
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Services
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Services</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/custom-formulation/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/custom-formulation_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Custom Formulation</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/custom-packaging/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/custom-packaging_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Custom Packaging</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/eplus-inventory-solutions/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/eplus-inventory-solutions_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">ePlus Inventory Solutions</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/promotions/meter-mix-and-dispensing-equipment/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/0f30e934217a47d38164b84b670afebd/metermix.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Meter, Mix, and Dispensing Equipment</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/national-accounts-services/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/national-accounts-services_menu-image2.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">National Accounts Services</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/shelf-life-and-lot-control/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/shelf-life-and-lot-control_menu-image2.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Shelf Life and Lot Control </span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/services/" class="btn">
+        <span>View all Services</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Industries
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Industries</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/battery/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/battery-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Battery</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/defense/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/defense-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Defense</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/general-industry/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/general-industrial-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">General Industry</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/medical/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/medical-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Medical</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/power/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/power-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Power</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/transportation/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/transportation-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Transportation</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/industries/" class="btn">
+        <span>View all Industries</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Resources
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Resources</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/insights/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/webinars.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Insights</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/line-card/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/line-card-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Line Card</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/literature-library/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/literature-library-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Literature Library</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/sdstdsreachrohs-library/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/literature-library-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">SDS / TDS / REACH / RoHS Library</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/upcoming-events/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/events-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Upcoming Events</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/video/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/videos-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Video</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/resources/" class="btn">
+        <span>View all Resources</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Get in Touch
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Get in Touch</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/about-us/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/14f4547f7a284c68993e077a3fd7d24e/about-us-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">About Us</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/ask-the-glue-doctor/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/gluedocpromo.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Ask The Glue Doctor</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/customerservice.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Contact Us</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/newsletter-signup/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/catalog-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Newsletter Signup</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/request-a-quote/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/quote-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Request a Quote</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/global-locator/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/global-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Global Locator</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+                    </ul>
+                    <div class="nav-main-buttons">
+                            <a href="https://www.ellsworth.com/login/?returnUrl=%2FNotFound%3F404;https:%2F%2Felad01mstrfg1t0prod__3a59:80%2Fglobalassets%2Fcatalogs%2Fdow-corning-736-300ml_431x431.jpg" class="btn-blue btn-plain">Log In/Register</a>                       
+                        <button class="btn-blue btn-plain nav-search-trigger open" data-search-toggle>
+                            <span>
+                                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search" />
+                                </svg>
+                                <span class="visually-hidden">Click to expand search</span>
+                            </span>
+                        </button>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-search-container class="nav-search  open">
+            <div class="nav-search-inner" data-search-autocomplete-container>
+    <div class="nav-search-input">
+        <input type="text" class="form-control autocomplete-box" id="search_term" placeholder="Enter your search term here" autocomplete="off" data-searchterm />
+        <div class=" nav-search-button-wrapper">
+            <button class="un-button nav-search-button  " type="button" id="search_main_btn" data-searchbutton>
+                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search" />
+                </svg>
+                <span class="visually-hidden">Click Here to Search</span>
+            </button>
+        </div>
+        <div class="search-autocomplete">
+            <div id="searchAutocompleteContainer" data-autocompletecontainer>
+                <div class="search-autocomplete-inner">
+                    <span class="search-autocomplete-indicator">
+                        <em>Search Suggestions</em>
+                    </span>
+                    <ul></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </nav>
+</div>
+        
+
+
+<div class="header-nav mobile">
+    <nav class="nav-mobile" data-nav-mobile>
+        <div class="nav-mobile-inner">
+
+            <div class="nav-mobile-logo">
+                <a itemprop="url" href="/">
+                    <img itemprop="logo" src="https://www.ellsworth.com/globalassets/general/logos/ea-us-logo.png" alt="Ellsworth Adhesives" />
+                </a>
+            </div>
+            <div class="nav-mobile-triggers">
+                <div class="nav-mobile-account-header">
+                    <a href="https://www.ellsworth.com/login/?returnUrl=%2FNotFound%3F404;https:%2F%2Felad01mstrfg1t0prod__3a59:80%2Fglobalassets%2Fcatalogs%2Fdow-corning-736-300ml_431x431.jpg" class="btn-blue btn-plain">Log In/Register</a>
+                </div>
+                <div class="nav-mobile-toggle-container">
+                    <button class="btn-plain bth-blue nav-mobile-toggle" data-mobile-nav-trigger>
+                        <span class="visually-hidden">toggle menu</span>
+                        <div class="toggle-icon "></div>
+                    </button>
+                    <p class="toggle-text h6-styled" data-mobile-nav-text><span class="menu">Menu</span><span class="close-text">Close</span></p>
+                </div>
+            </div>
+        </div>
+        <div class="nav-mobile-panel" data-mobile-nav-panel>
+            <div class="nav-mobile-panel-inner">
+                <div class="nav-search-inner" data-search-autocomplete-container>
+    <div class="nav-search-input">
+        <input type="text" class="form-control autocomplete-box" id="search_term" placeholder="Enter your search term here" autocomplete="off" data-searchterm />
+        <div class=" nav-search-button-wrapper">
+            <button class="un-button nav-search-button  " type="button" id="search_main_btn" data-searchbutton>
+                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search" />
+                </svg>
+                <span class="visually-hidden">Click Here to Search</span>
+            </button>
+        </div>
+        <div class="search-autocomplete">
+            <div id="searchAutocompleteContainer" data-autocompletecontainer>
+                <div class="search-autocomplete-inner">
+                    <span class="search-autocomplete-indicator">
+                        <em>Search Suggestions</em>
+                    </span>
+                    <ul></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                <ul class="nav-mobile-list ">
+                    
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Products
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner ">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Products</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/adhesives/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/adhesives-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Adhesives</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/conformal-coatings/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/conformal-coating-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Conformal Coatings</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/dispensing-equipment-supplies/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/dispensing-equipment-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Dispensing Equipment and Supplies</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/encapsulants/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/encapsulant-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Encapsulants</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/sealants/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/sealants-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Sealants</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/products/uv-curing-equipment/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/product-category-images/uv-curing-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">UV Curing Equipment</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/products/" class="btn">
+        <span>View All Products</span>
+    </a>
+
+    </div>
+</div>
+
+
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Manufacturers</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/3m/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/3m-wordmark.png)"></div>
+
+        <span class="nav-main-panel-link-text ">3M</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/dow/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/logos/dow-chemical-logo-transparent.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Dow</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/henkel-loctite/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/d5a687183ede401c9208e7cf8e0bd906/henkel_logo.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Henkel Loctite</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/dymax/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/logos/dymax_transparent.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Dymax</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/parker-lord/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/beaf6e4d6d854916b383616e5cb1a97a/parkerlord.png)"></div>
+
+        <span class="nav-main-panel-link-text ">Parker LORD</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn " href="https://www.ellsworth.com/manufacturers/humiseal/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/f8680b6f9b03460f9286e09a995c4ff2/humiseal_logo.png)"></div>
+
+        <span class="nav-main-panel-link-text ">HumiSeal</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/manufacturers/" class="btn">
+        <span>View all Manufacturers</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+                    <div class="nav-main-panel-section">
+
+                        <h4 class="h5-alt  title">Ask the Glue Doctor </h4>
+                        
+<div class="nav-main-panel-feature overlay-blue overlay-hover">
+    <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/gluedocpromo.jpg)"></div>
+    <div class="feature-cta-inner rich-text">
+            <h5 class="h3-styled title">Experts at Custom Solutions</h5>
+
+        <p>Ellsworth Adhesives Glue Doctors include our Engineering Sales Representatives.</p>
+        <div class="btn-wrapper">
+            
+
+    <a href="https://www.ellsworth.com/resources/ask-the-glue-doctor/" class="btn">
+        <span>Ask the Glue Doctor</span>
+    </a>
+
+        </div>
+    </div>
+</div>
+
+                    </div>
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Services
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Services</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/custom-formulation/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/custom-formulation_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Custom Formulation</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/custom-packaging/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/custom-packaging_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Custom Packaging</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/eplus-inventory-solutions/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/eplus-inventory-solutions_menu-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">ePlus Inventory Solutions</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/promotions/meter-mix-and-dispensing-equipment/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/0f30e934217a47d38164b84b670afebd/metermix.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Meter, Mix, and Dispensing Equipment</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/national-accounts-services/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/national-accounts-services_menu-image2.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">National Accounts Services</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/services/shelf-life-and-lot-control/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/shelf-life-and-lot-control_menu-image2.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Shelf Life and Lot Control </span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/services/" class="btn">
+        <span>View all Services</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Industries
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Industries</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/battery/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/battery-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Battery</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/defense/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/defense-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Defense</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/general-industry/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/general-industrial-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">General Industry</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/medical/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/medical-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Medical</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/power/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/power-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Power</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/industries/transportation/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/transportation-l.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Transportation</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/industries/" class="btn">
+        <span>View all Industries</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Resources
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Featured Resources</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/insights/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/webinars.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Insights</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/line-card/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/line-card-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Line Card</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/literature-library/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/literature-library-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Literature Library</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/sdstdsreachrohs-library/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/literature-library-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">SDS / TDS / REACH / RoHS Library</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/upcoming-events/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/events-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Upcoming Events</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/video/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/videos-resources-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Video</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+    <a href="https://www.ellsworth.com/resources/" class="btn">
+        <span>View all Resources</span>
+    </a>
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="nav-main-list-item">
+    <button class="un-button nav-main-list-item-trigger" data-mega-nav>
+        Get in Touch
+        <svg class="svg-icon arrow-down" aria-hidden="true" focusable="false" data-arrow-down>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-down" />
+        </svg>
+        <svg class="svg-icon arrow-up" aria-hidden="true" focusable="false" data-arrow-up>
+            <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-chevron-up" />
+        </svg>
+    </button>
+    <div class="nav-main-panel">
+        <div class="nav-main-panel-inner solo-section">
+
+            
+<div class="nav-main-panel-section nav-main-panel-section-links">
+    <h4 class="h5-alt  title">Get in Touch</h4>
+
+        <ul class="unstlyled nav-main-panel-list">
+            
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/about-us/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/contentassets/14f4547f7a284c68993e077a3fd7d24e/about-us-image.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">About Us</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/ask-the-glue-doctor/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/gluedocpromo.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Ask The Glue Doctor</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/general/graphics/customerservice.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Contact Us</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/resources/newsletter-signup/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/catalog-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Newsletter Signup</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/request-a-quote/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/quote-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Request a Quote</span>
+
+    </a>
+
+</li>
+<li class="nav-main-panel-list-item">
+    <a class="nav-main-panel-list-item-link nav-btn overlay-blue overlay-hover" href="https://www.ellsworth.com/contact-us/global-locator/">
+
+        <div class="block-image" style="background-image: url(https://www.ellsworth.com/globalassets/adage-content-pop/global-menu.jpg)"></div>
+
+        <span class="nav-main-panel-link-text gradient">Global Locator</span>
+
+    </a>
+
+</li>
+        </ul>
+
+    <div class="btn-wrapper">
+        
+
+
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+</li>
+
+
+
+
+                </ul>
+            </div>
+            <div class="nav-mobile-panel-inner nav-mobile-utility">
+                <div class="nav-mobile-utility-account">
+                    <a href="https://www.ellsworth.com/login/?returnUrl=%2FNotFound%3F404;https:%2F%2Felad01mstrfg1t0prod__3a59:80%2Fglobalassets%2Fcatalogs%2Fdow-corning-736-300ml_431x431.jpg" class="btn-blue btn-plain">Log In/Register</a>
+                </div>
+                
+
+
+<ul class="unstyled nav-utility-list">
+    <li class="nav-utility-list-item">
+        <a href="/resources/ask-the-glue-doctor/" class="ask-dr">
+            Ask The Glue Doctor&#174;
+        </a>
+    </li>
+    <li class="nav-utility-list-item"><a href="/resources/sdstdsreachrohs-library/">SDS/TDS Library</a></li>
+    <li class="nav-utility-list-item nav-quickorder">
+        <button class="un-button nav-quickorder-button" data-quick-order-trigger>Quick Order</button>
+        <div class="nav-quickorder-inner">
+
+            <div class="nav-quickorder-container dark-gray" style="max-width: 500px;" data-quick-order-content>
+                <div class="quick-order-inputs" data-quick-order-inputs>
+                    <div class="label-input-container quick-order-part-number" data-label-parent>
+                        <label class="paragraph-caption">Part #</label>
+                        <div data-quick-order-part-container class="part-number-error-container">
+                            <input type="text" data-quick-order-part />
+                            <div class=" search-autocomplete">
+                                <div class="autocomplete-container" data-quick-order-autocomplete-container>
+                                    <div class="search-autocomplete-inner">
+                                        <span class="search-autocomplete-indicator">
+                                            <em>Search Suggestions</em>
+                                        </span>
+                                        <ul></ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="part-number-message-container" data-quick-order-message-container>
+                                <svg class="svg-icon part-number-error" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-exclamation" />
+                                </svg>
+                                <svg class="svg-icon part-number-success" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-check" />
+                                </svg>
+                                <span data-quick-order-part-message class="error-text"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="label-input-container quick-order-quantity" data-label-parent>
+                        <label class="paragraph-caption">Quantity</label>
+                        <div class="quantity-container" data-quantity-container>
+                            <button type="button" class="btn-plain btn-white decrement" data-quantity-decrement>
+                                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-minus" />
+                                </svg>
+                            </button>
+                            <input type="number" min="1" max="99" value="1" data-quick-order-quantity />
+                            <button type="button" class="btn-plain btn-white increment" data-quantity-increment>
+                                <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                    <use xmlns:xlink="http://www.w3.org/2000/xlink" xlink:href="#icon-plus" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="quick-order-buttons">
+                    <button class="un-button add-row" type="button" data-quick-order-add-row>Add a row</button>
+                    <button type="button" data-quick-order-submit class="btn-primary add-to-cart">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li class="nav-utility-list-item nav-utility-list-item-compare"><a href="/compare/">Compare Products<span id="MyCompareListCount" class="nav-utility-list-item-compare-count no-items">0</span></a></li>
+    <li class="nav-utility-list-item nav-utility-list-item-cart"><a href="/cart/">My Cart<span id="MyCartCount" class="nav-utility-list-item-cart-count no-items">0</span></a></li>
+</ul>
+
+
+            </div>
+        </div>
+</nav>
+    
+</div>
+    </div>
+</header>
+
+
+
+    <div class="page-breadcrumbs">
+        <div class="page-breadcrumbs-inner">
+            <div class="ew-breadcrumb visible-desktop">
+                        <a href="/">Ellsworth Adhesives - Home</a>
+                        <span>&gt;</span>
+NotFound            </div>
+        </div>
+    </div>
+
+    <div class="ea-container">
+        <div class="ea-content">
+            <!--main section-->
+            
+
+    <div class="rich-text">
+        <div class="row" style="margin-top: 20px;">
+<div class="col-xs-12">
+<h1>Oops...<img class="img-responsive" style="float: right;" alt="The Glue Doctor&reg;" src="/contentassets/37a9daacd50c460cb25ecc78707114a9/gluedoc404.jpg" height="558" width="400" /></h1>
+<h1>Looks like you're stuck in a sticky situation.</h1>
+<p>&nbsp;</p>
+<p>This page has reached its shelf life.<br />It has either been removed, renamed, or does not exist.<br />Error Code: 404</p>
+<p>&nbsp;</p>
+<p>While we patch things up the Glue Doctor&reg; recommends:</p>
+<ul style="margin-left: 15px; list-style-type: disc;">
+<li>
+<p><a href="/" target="_top">Go to Home Page</a></p>
+</li>
+<li>
+<p><a href="/products/" target="_top">View our products</a></p>
+</li>
+<li>
+<p><a href="/login/" target="_top">Log In</a> or <a href="/account-register/" target="_top">Create an Account</a></p>
+</li>
+<li>
+<p><a href="/contact-us/" target="_top">Contact Us</a></p>
+</li>
+</ul>
+</div>
+</div>
+    </div>
+
+
+            <!--end main section-->
+
+        </div>
+    </div>
+
+<footer class="footer">
+    <div class="footer-container">
+        
+        <div class="footer-bg-two-tone">
+            <div class="footer-row-main">
+                <div class="footer-col-contact">
+                    <div class="footer-col-contact-inner">
+                        <h3 class="footer-col-contact-heading">Contact Us</h3>
+<p class="footer-col-contact-phone">(877) 454-9224</p>
+<p><a href="mailto:info@ellsworth.com" class="footer-col-contact-email">info@ellsworth.com</a></p>
+<p class="footer-col-contact-address"><span class="address-line1">W129 N10825 Washington Drive</span> <span class="address-line2">Germantown, WI 53022</span></p>
+<ul class="footer-col-contact-links">
+<li><a href="/contact-us/global-locator/"><span>Global Locator</span></a></li>
+<li><a href="/resources/newsletter-signup/" target="_top"><span>Newsletter Signup</span></a></li>
+<li><a href="/contact-us/request-a-catalog/"><span>Request a Catalog</span></a></li>
+<li><a href="/contact-us/request-a-quote/"><span>Request a Quote</span></a></li>
+</ul>     
+                    </div>
+                </div>
+                <div class="footer-col-main">
+                    <div class="footer-col-main-inner">
+                        <div class="footer-row-nested">
+                            <div class="footer-col-sm-6 footer-col-md-3">
+                                <h3 class="footer-col-main-heading">Customer Service</h3>
+                                <ul>
+                                        <li>
+                                            <a href="/resources/ask-the-glue-doctor/">Ask the Glue Doctor</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contact-us/request-a-quote/">Request a Quote</a>
+                                        </li>
+                                        <li>
+                                            <a href="/resources/upcoming-events/">Upcoming Events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contact-us/request-a-catalog/">Request a Catalog</a>
+                                        </li>
+                                        <li>
+                                            <a href="/faqs/">FAQs</a>
+                                        </li>
+                                </ul>
+                            </div>
+                            <div class="footer-col-sm-6 footer-col-md-3">
+                                <h3 class="footer-col-main-heading">Products</h3>
+                                <ul>
+                                        <li>
+                                            <a href="/products/adhesives/">Adhesives</a>
+                                        </li>
+                                        <li>
+                                            <a href="/products/dispensing-equipment-supplies/">Dispensing Equipment</a>
+                                        </li>
+                                        <li>
+                                            <a href="/products/sealants/">Sealants</a>
+                                        </li>
+                                        <li>
+                                            <a href="/products/specialty-chemicals/">Specialty Chemicals</a>
+                                        </li>
+                                        <li>
+                                            <a href="/products/encapsulants/">Encapsulants</a>
+                                        </li>
+                                </ul>
+                            </div>
+                            <div class="footer-col-sm-6 footer-col-md-3">
+                                <h3 class="footer-col-main-heading">Services</h3>
+                                <ul>
+                                        <li>
+                                            <a href="/resources/ask-the-glue-doctor/">Ask the Glue Doctor</a>
+                                        </li>
+                                        <li>
+                                            <a href="/resources/sdstdsreachrohs-library/">SDS and TDS Library</a>
+                                        </li>
+                                        <li>
+                                            <a href="/services/certification-and-documentation-control/">Certification &amp; Documentation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/services/custom-formulation/">Custom Formulation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/services/custom-labeling/">Custom Labeling &amp; Documentation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/services/custom-packaging/">Custom Packaging</a>
+                                        </li>
+                                </ul>
+                            </div>
+                            <div class="footer-col-sm-6 footer-col-md-3">
+                                <h3 class="footer-col-main-heading">Corporate</h3>
+                                <ul>
+                                        <li>
+                                            <a href="/contact-us/">Contact Us</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/">About Us</a>
+                                        </li>
+                                        <li>
+                                            <a target="_blank" href="https://careers.ellsworth.com/">Careers</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contact-us/global-locator/">Global Locator</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="">
+                            <div class="footer-section-copyrights">
+                                <div class="footer-section-copyrights-inner">
+                                    <div class="footer-links-privacy">
+                                        <ul class="footer-links-privacy-list">
+                                                <li>
+                                                    <a href="/about-us/terms-and-conditions/">Terms &amp; Conditions</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/globalassets/general/pdfs/ellsworth-corporation-online-privacy-policy.pdf">Privacy Policy</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/sitemap/">Sitemap</a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                    <div class="footer-links-copyrights">
+                                        <div class="footer-links-copyrights-text">
+                                            <p>
+                                                Copyright © 2024 Ellsworth Adhesives
+                                            </p>
+                                        </div>
+                                        <div class="footer-links-social">
+                                            <ul class="footer-links-social-list" itemscope itemtype="https://schema.org/Organization">
+                                                <li>
+                                                    <a href="https://www.linkedin.com/company/28305?trk=tyah" target="_blank" rel="noopener noreferrer" itemprop="sameAs">
+                                                        <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin-sq"></use>
+                                                        </svg>
+                                                        <span class="visually-hidden">linkedin</span>
+                                                    </a>
+                                                <li>
+                                                <li>
+                                                    <a href="https://www.facebook.com/pages/Ellsworth-Adhesives/107060482648061" target="_blank" rel="noopener noreferrer" itemprop="sameAs">
+                                                        <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook-sq"></use>
+                                                        </svg>
+                                                        <span class="visually-hidden">Facebook</span>
+                                                    </a>
+                                                <li>
+                                                <li>
+                                                    <a href="https://twitter.com/thegluedoctor" target="_blank" rel="noopener noreferrer" itemprop="sameAs">
+                                                        <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter-sq"></use>
+                                                        </svg>
+                                                        <span class="visually-hidden">Twitter</span>
+                                                    </a>
+                                                <li>
+                                                <li>
+                                                    <a href="https://www.youtube.com/user/EllsworthAdhesives" target="_blank" rel="noopener noreferrer" itemprop="sameAs">
+                                                        <svg class="svg-icon" aria-hidden="true" focusable="false">
+                                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-youtube"></use>
+                                                        </svg>
+                                                        <span class="visually-hidden">YouTube</span>
+                                                    </a>
+                                                </li>
+                                                <li class="hidden">
+                                                    <link itemprop="url" href="https://www.ellsworth.com/" />
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    <script type="text/javascript" src="https://dl.episerver.net/13.5.9/epi-util/find.js"></script>
+<script type="text/javascript">
+if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+    <div class="modal fade" id="site-root-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="button-close close-frame btn-plain btn-blue" data-dismiss="modal" aria-hidden="true">x</button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+<script>
+    // Modal
+    var siteRootModal = $('#site-root-modal');
+
+    function closeModal() {
+        siteRootModal.modal('hide');
+    }
+
+    function launchModal(url, h, w, autoheight, onclose) {
+        var ifrm = $(document.createElement("iframe"))
+                    .attr({
+                        width: "100%",
+                        frameborder: "0",
+                        src: url
+                    }).css({
+                        'width': w + 'px',
+                        'height': h + 'px'
+                    });
+        $('.modal-body', siteRootModal).html(ifrm);
+        $('.modal-dialog').css({
+            'width': parseInt(w) + 30 + 'px',
+            'height': parseInt(h) + 30 + 'px'
+        });
+        if (autoheight !== "undefined" && autoheight == "true") {
+            $('iframe').iframeAutoHeight({
+                minHeight: 500, // Sets the iframe height to this value if the calculated value is less
+                heightOffset: 0 // Optionally add some buffer to the bottom
+            });
+        }
+        if (typeof onclose !== "undefined")
+        {
+            siteRootModal.on('hidden.bs.modal', onclose);
+        }
+        siteRootModal.modal('show');
+    }
+
+    // Iframe Auto-Height
+    // --------------------------------------------------------------------------------------
+    /*JQUERY Browser plugin*/
+    (function (jQuery) {
+        var matched,
+            userAgent = navigator.userAgent || "";
+
+        // Use of jQuery.browser is frowned upon.
+        // More details: http://api.jquery.com/jQuery.browser
+        // jQuery.uaMatch maintained for back-compat
+        jQuery.uaMatch = function (ua) {
+            ua = ua.toLowerCase();
+
+            var match = /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+                /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+                /(opera)(?:.*version)?[ \/]([\w.]+)/.exec(ua) ||
+                /(msie) ([\w.]+)/.exec(ua) ||
+                ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+))?/.exec(ua) ||
+                [];
+
+            return {
+                browser: match[1] || "",
+                version: match[2] || "0"
+            };
+        };
+
+        matched = jQuery.uaMatch(userAgent);
+
+        jQuery.browser = {};
+
+        if (matched.browser) {
+            jQuery.browser[matched.browser] = true;
+            jQuery.browser.version = matched.version;
+        }
+
+        // Deprecated, use jQuery.browser.webkit instead
+        // Maintained for back-compat only
+        if (jQuery.browser.webkit) {
+            jQuery.browser.safari = true;
+        }
+
+    }(jQuery));
+
+    /*
+      Plugin: iframe autoheight jQuery Plugin
+      Version: 1.9.5
+      Description: when the page loads set the height of an iframe based on the height of its contents
+      see README: http://github.com/house9/jquery-iframe-auto-height
+    */
+    !function (e) { e.fn.iframeAutoHeight = function (t) { function i(e) { h.debug && h.debug === !0 && window.console && console.log(e) } function n(t, n) { i("Diagnostics from '" + n + "'"); try { i("  " + e(t, window.top.document).contents().find("body")[0].scrollHeight + " for ...find('body')[0].scrollHeight"), i("  " + e(t.contentWindow.document).height() + " for ...contentWindow.document).height()"), i("  " + e(t.contentWindow.document.body).height() + " for ...contentWindow.document.body).height()") } catch (r) { i("  unable to check in this state") } i("End diagnostics -> results vary by browser and when diagnostics are requested") } var r; if (e.browser === r) { var o = []; return o.push("WARNING: you appear to be using a newer version of jquery which does not support the $.browser variable."), o.push("The jQuery iframe auto height plugin relies heavly on the $.browser features."), o.push("Install jquery-browser: https://raw.github.com/house9/jquery-iframe-auto-height/master/release/jquery.browser.js"), alert(o.join("\n")), e } var h = e.extend({ heightOffset: 0, minHeight: 0, maxHeight: 0, callback: function () { }, animate: !1, debug: !1, diagnostics: !1, resetToMinHeight: !1, triggerFunctions: [], heightCalculationOverrides: [] }, t); return i(h), this.each(function () { function t(e) { var t = null; return jQuery.each(o, function (i, n) { return e[n] ? (t = s[n], !1) : void 0 }), null === t && (t = s["default"]), t } function r(r) { h.diagnostics && n(r, "resizeHeight"), h.resetToMinHeight && h.resetToMinHeight === !0 && (r.style.height = h.minHeight + "px"); var o = e(r, window.top.document).contents().find("body"), s = t(e.browser), a = s(r, o, h, e.browser); i(a), a < h.minHeight && (i("new height is less than minHeight"), a = h.minHeight), h.maxHeight > 0 && a > h.maxHeight && (i("new height is greater than maxHeight"), a = h.maxHeight), a += h.heightOffset, i("New Height: " + a), h.animate ? e(r).animate({ height: a + "px" }, { duration: 500 }) : r.style.height = a + "px", h.callback.apply(e(r), [{ newFrameHeight: a }]) } var o = ["webkit", "mozilla", "msie", "opera"], s = {}; s["default"] = function (e, t, i) { return t[0].scrollHeight + i.heightOffset }, jQuery.each(o, function (e, t) { s[t] = s["default"] }), jQuery.each(h.heightCalculationOverrides, function (e, t) { s[t.browser] = t.calculation }); var a = 0, c = this.contentDocument || this.contentWindow.document; if (i(this), h.diagnostics && n(this, "each iframe"), h.triggerFunctions.length > 0) { i(h.triggerFunctions.length + " trigger Functions"); for (var u = 0; u < h.triggerFunctions.length; u++) h.triggerFunctions[u](r, this) } if (e.browser.webkit || e.browser.opera || e.browser.chrome) { i("browser is webkit or opera"), e(this).load(function () { var e = 0, t = this, n = function () { r(t) }; 0 === a ? e = 500 : t.style.height = h.minHeight + "px", i("load delay: " + e), setTimeout(n, e), a++ }); var g = e(this).attr("src"); e(this).attr("src", ""), e(this).attr("src", g) } else "complete" === c.readyState ? r(this) : e(this).load(function () { r(this) }) }) } }(jQuery);;
+</script>
+
+
+        <div id="LP_DIV_1594144816556" class="hidden-xs nav-chat root-chat-btn">
+        </div>
+
+<script type="text/javascript" src="/Site/Ellsworth/Static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/version-f47d565d32fb43d48dddd8e1290e7963/Site/Ellsworth/Static/js/scripts.min.js"></script>
+<script type="text/javascript">
+    // Site Header Live Chat Event
+    // Nav Header
+    $('#LP_DIV_1594144816556').click(function() {
+        dataLayer.push({ 'event': 'headerChat' });
+    });
+    // Navless header
+    $('#LP_DIV_1457105076680').click(function() {
+        dataLayer.push({ 'event': 'headerChat' });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        if (ie <= 11) {
+            $('.header-banner').prepend("<p class='page-top-msg'>We've noticed you are using Internet Explorer. For the best experience and security, we recommend you use <a href='https://www.microsoft.com/en-us/edge?&OCID=AID2001283_SEM' target='_blank'>Microsoft Edge</a>, <a href='https://www.google.com/chrome/' target='_blank'>Google Chrome</a>, or <a href='https://www.mozilla.org/en-US/firefox/new/' target='_blank'>Mozilla Firefox</a>.</p>");
+        }
+        if (ie === 12) {
+            $('.header-banner').prepend("<p class='page-top-msg'>We've noticed you are using an older version of Microsoft Edge. For the best experience and security, we recommend you use the newer version of <a href='https://www.microsoft.com/en-us/edge?&OCID=AID2001283_SEM' target='_blank'>Microsoft Edge</a>, <a href='https://www.google.com/chrome/' target='_blank'>Google Chrome</a>, or <a href='https://www.mozilla.org/en-US/firefox/new/' target='_blank'>Mozilla Firefox</a>.</p>");
+        }
+    });
+</script>
+<script type="text/javascript">
+    var wto = wto || [];
+    wto.push(['setWTID', 'ellsworth']);
+    wto.push(['webTraxs']);
+
+    (function () {
+        var wt = document.createElement('script');
+        wt.src = document.location.protocol + '//www.webtraxs.com/wt.php';
+        wt.type = 'text/javascript';
+        wt.async = true;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wt, s);
+    })();
+</script>
+<noscript><img src="https://www.webtraxs.com/webtraxs.php?id=ellsworth&st=img" alt="" /></noscript>
+        <div class="privacy-policy-banner ">
+            <div class="privacy-policy-banner-content">
+                <h5>This site uses cookies</h5>
+                <p style="margin: 0;">We use cookies to provide you with the best possible experience. By using this site, you accept our <a href="/about-us/terms-and-conditions/" target="_blank" style="text-decoration: underline;" rel="noopener">terms of service</a> and use of cookies.</p>
+            <button class="js-accepted btn" type="button">Dismiss</button>
+            </div>
+        </div>
+
+    <script type="text/javascript">
+        var epiEditMode = false;
+        if (epiEditMode) {
+            document.querySelector('html').classList.add('epi-editmode');
+        }
+    </script>
+</body>
+</html>
